@@ -18,10 +18,10 @@ This network achieves 99.2%+ accuracy on the MNIST handwriting benchmark.
 
 ## Features
 
-**Multi Digit Support:** Uses OpenCV to isolate individual digits from a single image string.
-**Deep CNN:** Custom PyTorch dual block Convolutional Neural Network using hierarchical geometric feature maps.
-**Smart Preprocessing:** Contrast inversion handling and Gaussian stroke smoothing to mimic ink artifacts.
-**Web Interface Layout:** A clean drag and drop web portal with Gradio.
+- **Multi Digit Support:** Uses OpenCV to isolate individual digits from a single image string.
+- **Deep CNN:** Custom PyTorch dual block Convolutional Neural Network using hierarchical geometric feature maps.
+- **Smart Preprocessing:** Contrast inversion handling and Gaussian stroke smoothing to mimic ink artifacts.
+- **Web Interface Layout:** A clean drag and drop web portal with Gradio.
 
 ## Pipeline
 
