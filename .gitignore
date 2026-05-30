@@ -1,0 +1,10 @@
+# Venv
+.venv/
+__pycache__/
+
+# Datasets and binary files
+data/
+*.pth
+
+# OS generated files
+.DS_Store
