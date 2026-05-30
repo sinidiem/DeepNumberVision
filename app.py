@@ -130,9 +130,8 @@ interface = gr.Interface(
     outputs=gr.Textbox(lines=12, label="MAIN_OUTPUT"),
     title="@sinidiem // Neural Scanner v1",
     description="Attach files for model desconstruction. Github: @sinidiem",
-    theme=theme,
-    css=css
+    flagging_mode="never"
 )
 
 if __name__ == "__main__":
-    interface.launch(theme=theme, css=css, flagging_mode="never")
+    interface.launch(theme=theme, css=css)
