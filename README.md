@@ -43,7 +43,7 @@ Please ensure you have Python 3.10+ installed.
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/sinidiem/DeepNumberVision.git](https://github.com/sinidiem/DeepNumberVision.git)
+   git clone https://github.com/sinidiem/DeepNumberVision.git
    cd DeepNumberVision
 2. **Configure virtual environment:**
     ```bash
